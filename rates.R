@@ -1,6 +1,5 @@
-# Authors:
+# Author:
 # - Maria Vollmer (University of Freiburg, Australian National University)
-# - Jan Boockmann (University of Bamberg)
 #
 # This script is used in the analysis of the following paper:
 # Vollmer, Maria. Accepted with minor revision. Comparing zero and referential 
