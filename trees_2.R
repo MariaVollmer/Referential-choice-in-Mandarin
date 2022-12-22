@@ -1,14 +1,16 @@
-## This script was written by Maria Vollmer (University of Freiburg, 
-# Australian National University) and Jan Boockmann (University of Bamberg).
-
+# Authors:
+# - Maria Vollmer (University of Freiburg, Australian National University) 
+# - Jan Boockmann (University of Bamberg)
+#
 # This script is used in the analysis of the following paper:
 # Vollmer, Maria. Accepted with minor revision. Comparing zero and referential 
 # choice in eight languages with a focus on Mandarin Chinese. Studies in language.
-
+#
 # If you use this script, please make sure to cite the paper above. 
 # If you have any questions, you can contact me via email: mariacvollmer@gmail.com
-
-## This script produces the binary classification trees for the decision 
+#
+# Description:
+# This script produces the binary classification trees for the decision 
 # between pronoun and zero; including all variables; once for all languages 
 # and once for only Mandarin.
 
