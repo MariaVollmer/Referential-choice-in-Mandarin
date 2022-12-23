@@ -18,9 +18,6 @@ mc_dist_clause <- function(x, direction = "ante") {
   # copy table
   text <- copy(x)
   
-  # first row of each text gets index 0
-  # in case the text doesn't start with a clause boundary
-  
   # index left clause boundaries sequentially
   text[grepl("#", graid), cid := seq(1, .N, 1), by = "text"]
   
